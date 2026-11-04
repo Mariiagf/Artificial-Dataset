@@ -123,11 +123,11 @@ See `docs/` (AVP3) for the full analysis, deviations from the plan and future wo
 
 ## Authors
 
-- Alejandra Ares Rivas
-- María Gómez Fernández
-- Paula Esmorís Rodríguez
+- Alejandra Ares Rivas.
+- María Gómez Fernández.
+- Paula Esmorís Rodríguez.
 
-Tutor at Gradiant: Daniel Jove Díaz
+Tutor at Gradiant: Daniel Jove Díaz.
 
 ## License
 
