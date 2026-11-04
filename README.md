@@ -43,7 +43,7 @@ Artificial-Dataset/
 
 | Folder | Content |
 |--------|---------|
-| `archives/` | Blender (`.blend`) scene files, one folder per scenario: `archivos_campo` (countryside, including the rain and fog variants `campo_lluvia`, `campo_lluvia2` and `campo_niebla`), `archivos_mar` (sea) and `archivos_montana` (mountain). |
+| `archives/` | Blender (`.blend`) scene files and the Python script for label generation. One folder per scenario: `archivos_campo` (countryside), `archivos_mar` (sea) and `archivos_montana` (mountain). |
 | `docs/` | The three project deliverables: **AVP1** (project plan), **AVP2** (functional and technical requirements) and **AVP3** (results report and conclusions). |
 | `results/` | Results of the YOLOX validation on the generated datasets. |
 
